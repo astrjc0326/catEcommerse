@@ -1,0 +1,27 @@
+{
+  "name": "exercise-9",
+  "version": "1.0.0",
+  "description": "cat e-commerse page",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astrjc0326/exercise9.git"
+  },
+  "keywords": [
+    "cat",
+    "ecommerse"
+  ],
+  "author": "Anny Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astrjc0326/exercise9/issues"
+  },
+  "homepage": "https://github.com/astrjc0326/exercise9#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
